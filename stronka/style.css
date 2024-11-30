@@ -1,0 +1,15 @@
+:root{
+    --bs-orange: #e3a97b, ;
+    --bs-orange: #b27644, ;
+    background-color: #e3a97b;
+    }
+    
+    nav {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    .image-thumbnail{
+       box-shadow: #e3a97b;
+    }
+
+    
